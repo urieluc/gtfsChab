@@ -1,0 +1,40 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1070,MID,10001,"Circuito Periférico Exterior (Antihorario)",3
+1071,MID,10002,"Circuito Periférico Interior (Horario)",3
+1077,MID,601,"Centro-42 Sur-Cielo Alto Nocturna",3
+1078,MID,602,"Centro-60 Sur Nocturna",3
+1079,MID,603,"Centro-Umán Nocturna",3
+1080,MID,604,"Centro-Tixcacal-Juan Pablo II Nocturna",3
+1081,MID,605,"Centro-Canek-Caucel Nocturna",3
+1082,MID,606,"Centro-Fco. de Montejo-Fracc. Las Américas Nocturna",3
+1083,MID,607,"Centro-Harbor Nocturna",3
+1084,MID,608,"Centro-La Isla Nocturna",3
+1085,MID,609,"Centro-Cholul Nocturna",3
+1086,MID,610,"Centro-Kanasín Nocturna",3
+1087,MID,611,"Circuito Poniente y Plazas Nocturna",3
+1088,MID,612,"Circuito Metropolitano Interior Nocturna",3
+1089,MID,613,"Circuito Metropolitano Exterior Nocturna",3
+1092,MID,614,"Centro-Brisas-Polígono 108 Nocturna",3
+1093,MID,615,"Centro-Fidel Velázquez-Los Héroes Nocturna",3
+1094,MID,616,"Centro-Villas de Oriente Nocturna",3
+1095,MID,701,"Aeropuerto-Hoteles del Centro-CIC",3
+1100,MID,617,"Centro-Lindavista-Plaza Dorada-H. Juárez Nocturna",3
+1102,MID,10003,"Circuito Metropolitano Exterior (Antihorario)",3
+1103,MID,10004,"Circuito Metropolitano Interior (Horario)",3
+1105,MID,72,"Tec MID - Fac. de Ingeniería - Fracc. Las Americas II",3
+1106,MID,73,"Av. Tecnológico -  Siglo XXI - The Harbor - Fracc. Las Américas II",3
+1107,MID,74,"Av. Tecnológico - Vía Montejo - Fracc. Las Américas",3
+1110,MID,71,"Fracc. Fco. de Montejo - Fac. de Ingeniería - Parque Industrial Yucatán - Komchén	",3
+1114,MID,78,"Chuburná - CICY - Prepa 8 Fracc. Fco. de Montejo - Fac. de Matemáticas - CRIT	",3
+1115,MID,79,"Chuburná - Glorieta Los Cantaritos - C-61 Fracc. Fco. de Montejo",3
+1119,MID,85,"ISSSTE Pensiones - IMSS La Ceiba - Fracc. Residencial Pensiones",3
+1122,MID,70,"Komchèn Express",3
+1123,MID,702,"Circuito Poniente Plazas y Universidades",3
+1128,MID,91,"Av. Jacinto Canek - Fracc. Las Palmeras Cd. Caucel - Fracc. Paseos de Caucel 2da Etapa",3
+1131,MID,94,"Av. Jacinto Canek - Deportivo Cd. Caucel - Gran Herradura",3
+1132,MID,95,"O´Horan - IMSS Cd. Caucel - Fracc. Almendros III",3
+1136,MID,108,"Av. Aviación- Cd. Industrial- Umán",3
+1137,MID,703,"Circuito Rojo",3
+1146,MID,901,"IE-TRAM Paseo 60 - Plancha - Estación Tren Maya Teya	",3
+1147,MID,902,"IE-TRAM Mejorada - Plancha - Kanasín",3
+1148,MID,63,"Copó - La Isla",3
