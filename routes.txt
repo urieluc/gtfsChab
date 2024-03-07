@@ -29,7 +29,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type
 1115,MID,79,"Chuburná - Glorieta Los Cantaritos - C-61 Fracc. Fco. de Montejo",3
 1119,MID,85,"ISSSTE Pensiones - IMSS La Ceiba - Fracc. Residencial Pensiones",3
 1122,MID,70,"Komchèn Express",3
-1123,MID,702,"Circuito Poniente Plazas y Universidades",3
+1123,MID,702,"Circuito Poniente, Plazas y Universidades",3
 1128,MID,91,"Av. Jacinto Canek - Fracc. Las Palmeras Cd. Caucel - Fracc. Paseos de Caucel 2da Etapa",3
 1131,MID,94,"Av. Jacinto Canek - Deportivo Cd. Caucel - Gran Herradura",3
 1132,MID,95,"O´Horan - IMSS Cd. Caucel - Fracc. Almendros III",3
